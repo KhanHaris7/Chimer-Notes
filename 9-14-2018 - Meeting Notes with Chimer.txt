@@ -1,0 +1,30 @@
+Meeting with Chimer founders (9-14-2018):
+
+Andrew - technical with code (co-founder)
+Robert Tann - manages business aspect of Chimer
+
+Competitor:
+Career Fair Plus
+
+CU-Boulder pays to have their app up and running as well as advertisements for their company.
+
+Main coding languages for app development:
+-Javascript
+-MySQL
+-PHP 
+
+Chimer will share private github repository of their own with the project team.
+
+Chimer stands out as it provides top of the line matching for candidates and employers.
+-Students fill out a quick survey to run the matching algorithm
+
+Biweekly sprints with Andrew via mobile/facetiming/skype possibly for 10-15 minutes to get an update.
+
+Meeting with Career Fair and Robert on Monday from 11:00 AM - 12:00 PM.
+
+First assignment is to create a Spec Doc within next two months (November 14th)
+End Goal is to have prototype by April's career fair (Just In Time)
+
+Contact Info for Andrew and Robert:
+abg1625@colombia.edu
+robtann99@gmail.com	
