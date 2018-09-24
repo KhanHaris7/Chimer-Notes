@@ -2,7 +2,7 @@
 	--> how to communicate? (email is difficult to email back and forth) i.e. Slack, Skype
 	--> computing resources? (Amazon Web Services, etc.)
 	--> What have they worked on so far? What's the purpose there? Structure, Design?
-	--> Version Control? ( Private Github repo) Documentation? (Markdown in Github?) (edited)
+	--> Version Control? (Private Github repo) Documentation? (Markdown in Github?) (edited)
 	--> Any resources/tutorials outside of internet they could provide? (Maybe post in Slack) (edited)
 	--> Any existing documentation we could add on to?
 	--> Time/Work/Project Management tools? (Pivotal, Asana) Maybe invite sponsor if they want? (edited)
