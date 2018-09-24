@@ -1,0 +1,94 @@
+Notes on Chimer Shared Docs
+
+-- sketch of app
+	-- rematching option
+		--> leads to 8 questions again
+			--> are these selected from the original 10 or are they different? how are they different?
+	-- summary
+		--> matching algorithm
+		--> rematch or continue
+		--> company sponsors that match with you
+			--> if you click on them, granted more info such as degree required, description, job title, etc.
+		--> map
+
+-- How the app should work
+	--> matching
+		--> if no matching, skip to go to map
+			--> most functionalities wouldn't work, thus requiring temporary pages
+
+-- why build a progressive web application (PWA)
+	--> option to always be on the home screen of a phone
+		--> exposure to the application 
+	--> work no matter the network conditions
+	--> increase engagement and awareness
+	--> improved conversions 
+
+	--> reliable
+		--> open when no network or fairly low-speed
+			--> 53% of users abandon the website if the page took longer than 3 seconds to load
+	--> fast
+		--> smooth page transitions
+	--> responsive
+	--> installable
+	--> splash screen
+		--> feels more like a native app
+- what is spec documentation
+	--> specifies the functions that a system or component must perform 
+
+-prototype
+	--> I like the matching screen with employer and then match level
+		--> users are able to click on interested employer and find more info
+	--> I feel the most difficult aspect is providing a map of the fair in a non-confusing and aesthetically pleasing manner
+	--> I like the idea of highlighting the match level color of the employer on the map of the fair
+
+-- main colors
+	--> mainly green, then blue, then white
+
+
+
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+-- PROJECT KICKOFF
+
+	-- guided personalized effective tool/ enhance career fair experience
+	-- novel & highly skilled capstone team
+
+	-- IMPORTANT DATES
+		--> 10/3-10/4
+			--> technology career fair
+		--> 10/16
+			--> Mountain Sports Expo
+		--> 10/17
+			--> All campus fair
+
+		--> 11/1
+			--> complete all design requirements and start development
+		--> 11/1 - 4/1
+			--> two week sprints developing product
+		--> 4/1 
+			--> have working prototype
+				--> Just In Time Fair
+		--> 4/1 - 5/1 
+			--> refinements and edits
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
