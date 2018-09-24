@@ -1,0 +1,17 @@
+- Questions for sponsor meeting on Friday 9-14-2018:
+	--> how to communicate? (email is difficult to email back and forth) i.e. Slack, Skype
+	--> computing resources? (Amazon Web Services, etc.)
+	--> What have they worked on so far? What's the purpose there? Structure, Design?
+	--> Version Control? ( Private Github repo) Documentation? (Markdown in Github?) (edited)
+	--> Any resources/tutorials outside of internet they could provide? (Maybe post in Slack) (edited)
+	--> Any existing documentation we could add on to?
+	--> Time/Work/Project Management tools? (Pivotal, Asana) Maybe invite sponsor if they want? (edited)
+	--> Markdown file (add notes from meetings to make sure everyone is updated with progress and overview of meetings
+	--> What is the business value of Chimer? Why are we even doing this?
+	--> What is the benefit?
+	--> Expectations?
+
+- Next meeting Thursday 9-20-2018
+
+
+
