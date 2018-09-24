@@ -1,0 +1,9 @@
+- Meeting Notes
+	--> create account on Pivotal
+		--> get set up
+		--> for pivotal and private githu, use edu account for free
+	--> user stories for documentation
+	--> next meeting: discussing individual goals
+		--> 15 minutes with each group member, total of 1 hour
+- Next meeting: Thursday 9-27-2018 12:30-1:30 PM
+	--> goal is to have this time as permanent meeting time
