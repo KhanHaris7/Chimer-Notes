@@ -49,3 +49,30 @@ By next meeting
 - Focused on easy maintaince deployment
 
 - Increased communication with Andrew on our progress, or if we have any doubts
+
+***************************************************************************************************************************
+Abdul Ghiasy PWA Architecture Notes
+
+- App architecture notes
+	--> Migrate an existing site to PWA
+		--> Move too HTTPS protocols
+		--> use caching strategies to improve performance online and reduce response times
+			--> ex. Cache-aside method
+				--> cache sits on the side and the application directly talks to both the cache and the database
+					--> steps: (1) application checks cache
+						   (2) if data found, indicate cache hit; read data and return to client
+					           (3) if not found, indicate cache miss; query database to read data, return to client, and store in cache
+		--> implement an app shell architecture
+			--> makes it feel like a native application and reliable performance
+		--> add to homescreen 
+		--> add push notifications
+		--> architectural patterns / caching strategies 
+			--> Server-side rendering (SSR) 
+				--> server returns a complete page
+				--> page loads CSS, Javascript, and all content
+				--> HARD TO DO OFFLINE BECAUSE SERVER RETURNS THE WHOLE PAGE
+			--> Client-side rendering (CSR)
+				--> server return template page with CSS & Javascript
+				--> Javascript makes request to get content, add to page
+				--> page updates reload only dynamic content
+
