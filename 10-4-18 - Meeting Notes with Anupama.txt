@@ -1,0 +1,29 @@
+Personal Notes
+- PWA architecture
+	--> need to first choose a core framework
+		--> ReactJS?
+		--> AngularJS?
+	--> Template
+		--> Poylmer
+			--> open source project
+	--> Monitoring
+		--> Lighthouse
+			--> plugin for google chrome
+				--> analytics on:
+					--> App can load offline/flaky connections
+					--> Page load performance is fast
+					--> Site is progressively enhanced
+					--> Network connection is secure
+					--> User can be prompted to add to home screen
+					--> Installed web app will launch with custom splash screen
+					--> Address bar matches brand colors
+					--> Design is mobile friendly
+
+- Went over homework deadlines
+- Worked on Risk log
+
+- Questions to ask Chimer
+	--> scalability? Plan for future?
+	--> architecture for offline mode? 
+	--> How many actual members? Who can we go to for technical questions? 
+
