@@ -1,0 +1,51 @@
+Meeting notes with Andrew:
+
+Questions:
+
+Scalability of the application in the future:
+- Enormous career fair about 2000 people who will be matching using the app
+
+- Planning to create new instances of the app
+
+- Creating from the admin panel
+
+
+Dev Testing team? Who to go for technical questions ?
+- Dominic Deques student at CU-Boulder
+- Develops some tools --> code aspect
+
+
+Spec Documentation:
+- Need to make edits/refinements
+
+(My Use Case) Career Fair information:
+- Students editing the fields to input their information for matching purposes
+
+- Watch out for overlapping: Employee information and sponsors 
+
+-Student does not need to create login or user name to match with a potential employer at the career fair.
+
+Next Steps:
+- Continue to refine all the use cases and edge cases
+
+- What happens if the student doesn't match with any employers
+
+Possible Technology --> ?
+- Specifications
+- Design  architecture of the app
+- How it is going to function
+- Documentation
+- Coding is the last step
+- Where to host the app ?
+
+By next meeting
+- List the technologies to implement each our own use cases 
+
+- App needs to be responsive as a web application independent of device type i.e. Iphone, Samsung or Android, etc, etc.
+
+	---> Start implementation (coding) after finalizing the spec doc by November 1st (flexible)
+
+- Head First Design Pattern (book) for implementation of code (useful)
+- Focused on easy maintaince deployment
+
+- Increased communication with Andrew on our progress, or if we have any doubts
