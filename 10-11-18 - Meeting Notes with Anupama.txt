@@ -1,0 +1,13 @@
+- Questions to ask Chimer
+	--> scalability? Plan for future?
+	--> architecture for offline mode? 
+	--> How many actual members? Who can we go to for technical questions? 
+
+- Feedback on Presentations
+	--> Did really well
+	--> average rating roughly 4.75 / 5
+		--> really good
+
+- Need to really dig into PWA architecture
+
+- Make sure to do individual assignments for the week
