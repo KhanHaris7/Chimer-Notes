@@ -1,0 +1,22 @@
+- Set up Pivotal for tracking progress
+	--> even if it is just researching
+
+- Start learning things
+	--> attempt to learn architecture
+
+- Next meeting
+	--> discuss SCRUM Meeting aswell as design
+
+What to do now:
+	- Set up accounts on Pivotal
+	- Research on PWA architecture
+		--> come together Sunday morning and create something presentable
+			--> rundown of PWA architecture
+			--> tools/architecture we chose and why
+
+	- Finish bulk of use cases
+		--> at least 2 from our own section
+		--> 1 from remaining section
+
+
+
