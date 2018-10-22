@@ -1,0 +1,56 @@
+==================  10-21-2018 Meeting Notes with Chimer =================
+
+What technology/tools?
+-> React for PWA architecture.
+
+Possible Questions for Chimer: 
+
+-> What happens if we run across a specific problem with our current based architecture, and if we find it easier using a different tool? 
+-> How far back would we be on the timeline in terms of timeline?
+-> How are we implementing PWA framework?
+
+Tools/Framework for PWA architecture (My personal notes):
+
+-> Work with most browsers and devices with a progressive codebase.
+-> Fit all screen and form factors using a responsive design/
+-> Leverage service workers to enable offline connectivity (HTTPS required).
+-> Provide an app-like experience that leverages re-engagement tools such as push.
+-> Leverage a web app manifest to describe the used resources.
+-> React Framework:
+ 	- Benefits:
+	-> Component-centered approach to development
+	-> Each component is built using JavaScript, and you can easily 	
+	   resuse it. 
+	-> Rich data can be quickly passed through the DOM layer.
+	-> DOM is a platform and language-neutral interface that allows 	
+	   programs/scripts to dynamically access and update the content, 
+	   structure and style of a document.
+	-> XML-like syntax for writing JavaScript.
+
+============== On Call Notes ==================
+
+-> Firebase database: Host the Chimer mobile app. 
+-> Very scalable and cost effective.
+-> But is it Applicable ?
+-> There's no way to save results from previous career fairs, cannot save data from more than 3 months and before.
+
+Feedback from CU tech fair (10/3-10/4):
+-> 300 students used Chimer, great!
+-> 75 % of the students who took the exit survey, Chimer was somewhat useful.
+-> Setting up meeting with Lisa (Career Services) in early November for updates. 
+-> Finalizing the tools and technologies we are going to implement before next sprint meeting.  
+-> Begin technical implementation on November 1st onwards. 
+-> Contacts for code development support.
+-> Possible 1:1 meetings with each of us.
+   -> Possibly finalize our roles before Wednesday.
+
+
+=== Update for my Use Case 5b === 
+-> Create an additional case. 
+-> If the user clicks on the icon, then he should be linked to the companies detailed profile.
+-> Degree Requirements. 
+
+
+
+
+
