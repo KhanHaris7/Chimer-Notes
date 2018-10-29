@@ -1,0 +1,26 @@
+========== Meeting With Chimer ==========
+-> Discussing Use Cases
+-> Tools/Technologies used to implement PWA architecture
+-> Implementation (coding) starts November 1st
+-> Conflicts of interest with Dominic Deques since he's in the Senior    Capstone Project
+-> Bigger and Impending Questions can be directed to Sri
+
+   
+
+
+========= On Call Notes with Andrew =========
+-> Database: Firebase
+   -> Check to see if there are any limits to using Firebase
+   -> If any feature needs to be paid for
+-> Architecture: React, JavaScript
+-> Monitoring: Lighthouse
+-> Individual 1:1 meetings set up with Andrew to discuss roles
+
+
+
+======= Questions for our team =========
+-> Look into Firebase backend programming language
+-> Possible meeting with Career Services in early November (1st/2nd week)
+   -> Understanding the data analytics behind the usage of the app
+   -> Take a look at the data sample set (How many students are Comp Sci majors, the different companies applied for, whether it's an entry level position, etc, etc.)
+
