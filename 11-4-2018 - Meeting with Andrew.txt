@@ -1,0 +1,16 @@
+====== Chimer Meeting Notes (11/4/2018) =======
+
+-> Matching Use Cases: Where will the questions be added...
+-> Differences between Questions and Data for matching aspect. 
+-> Specifications on the structure of the app?
+   -> How will the app respond? Like under a single URL - something to consider.
+
+
+-> Specific Roles to Consider ?  
+-> Haris/Abdul/Bryant roles: Career Info part are student side focused, back-end related - primary focus on studying React.
+-> Hussain focusing on Firebase, managing the database, data, etc. 
+-> Dominic is an available resource for this project for matching algorithm.
+
+
+-> Two week sprints after this meeting.
+-> Write up specific goals (objectives) for each one of us for the 2 week sprints.
