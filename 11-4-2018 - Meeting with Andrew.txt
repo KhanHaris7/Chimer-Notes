@@ -1,14 +1,15 @@
 ====== Chimer Meeting Notes (11/4/2018) =======
 
--> Matching Use Cases: Where will the questions be added...
+-> Matching Use Cases: Where will the questions be added... Add all the questions and their relation to the data in the tables/database.
 -> Differences between Questions and Data for matching aspect. 
 -> Specifications on the structure of the app?
    -> How will the app respond? Like under a single URL - something to consider.
+   -> Consider where/how the app will be hosted. Will admin panel be within the same app, or have a seperate panel from the main app?
 
 
 -> Specific Roles to Consider ?  
--> Haris/Abdul/Bryant roles: Career Info part are student side focused, back-end related - primary focus on studying React.
--> Hussain focusing on Firebase, managing the database, data, etc. 
+-> Haris/Abdul/Bryant roles: Career Info part are student side focused, back-end related - primary focus on studying React/Front-end.
+-> Hussain focusing on Firebase, managing the database, data, etc. i.e. Back-end
 -> Dominic is an available resource for this project for matching algorithm.
 
 
